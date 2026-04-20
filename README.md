@@ -1,4 +1,29 @@
 # DNIntegra – Recuperación de Contraseña
+**Versión:** 1.0  
+**Framework:** ASP.NET Web API 4.5  
+**Frontend:** AngularJS  
+**Base de Datos:** SQL Server  
+**Última actualización:** Abril 2026  
+
+---
+
+##  Tabla de Contenidos
+
+1. [Descripción](#descripción)  
+2. [Objetivo](#objetivo)  
+3. [Alcance](#alcance)  
+4. [Arquitectura](#arquitectura)  
+5. [Flujo de Recuperación](#flujo-de-recuperación)  
+6. [Frontend](#frontend)  
+7. [Backend](#backend)  
+8. [Endpoints](#endpoints)  
+9. [Seguridad](#seguridad)  
+10. [Configuración](#configuración)  
+11. [Validaciones de Contraseña](#validaciones-de-contraseña)  
+12. [Estructura del Proyecto](#estructura-del-proyecto)  
+13. [Pruebas Recomendadas](#pruebas-recomendadas)  
+14. [Autor](#autor)  
+15. [Conclusión](#conclusión)  
 
 ## Descripción
 Este proyecto corresponde a la implementación del módulo de recuperación de contraseña en la aplicación DNIntegra, desarrollada en ASP.NET Web API 4.5 con base de datos en SQL Server.
