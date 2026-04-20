@@ -27,6 +27,28 @@ La implementación incluye:
 
 ---
 
+##  Instalación y configuración
+
+### Requisitos
+- .NET Framework 4.5
+- SQL Server
+- Visual Studio
+- Cuenta SMTP Office 365
+
+### Pasos
+1. Clonar el repositorio.
+2. Abrir **DNIntegra.API** en Visual Studio.
+3. Configurar la cadena de conexión en `Web.config`.
+4. Configurar el servicio SMTP (Office 365).
+5. Ejecutar la API.
+6. Verificar las vistas del frontend en `DNIntegra.Logistica`.
+
+### Notas
+- El envío de correos depende de la correcta configuración SMTP.
+- Los tokens de recuperación expiran en 20 minutos.
+
+---
+
 ## Funcionalidades
 - Botón de “Restablecer contraseña”
 - Formulario para validación de correo
